@@ -1,4 +1,4 @@
-# PRD: LLM Arena Logger
+# PRD: LLM Prompt Logger
 
 ## I. Core Data Structure & Input
 The application needs to store the following information for each record. When inputting a new record, use appropriate UI controls:
