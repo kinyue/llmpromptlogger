@@ -2,7 +2,7 @@
 
 ## 1. Current Project Status
 
-The "LLM Prompt Logger" project has its basic backend and frontend directory structures established. The frontend React project has been initialized using Vite, core dependencies installed, and basic page routing set up. Product requirements are documented in `PRD.md`. The `HomePage` UI has been partially implemented with a table to display records. The project root directory is `E:\libs\fork\llmpromptlogger`.
+The "LLM Prompt Logger" project has its basic backend and frontend directory structures established. The frontend React project has been initialized using Vite, core dependencies installed, and basic page routing set up. Product requirements are documented in `PRD.md`. The `HomePage` UI has been partially implemented with a table to display records. The project root directory is `E:\libs\fork\llmpromptlogger`, github MCP server installed.
 
 ## 2. Brief History
 
